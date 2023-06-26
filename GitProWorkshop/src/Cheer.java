@@ -1,5 +1,5 @@
 public class Cheer {
-   public void cheer(){
-      System.out.println("Team name");
+   public void cheer(String name) {
+      System.out.println("Team name: " + name);
    }
 }
