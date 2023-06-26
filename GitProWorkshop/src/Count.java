@@ -1,5 +1,5 @@
 public class Count {
-    public void count (){
-        System.out.println("3");
+        public void count (int age){
+        System.out.println(age + " 3");
     }
 }
